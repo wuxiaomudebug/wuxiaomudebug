@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/易语言-FFC107?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTIuNTYgNi40M2MyLjQwMyAwIDQuMzYgMS45NTcgNC4zNiA0LjM2di4wMTl2LjAwOWM0LjM2MS4wMDUgNi40MjUgMi4wNjIgNi40MjUgNi40MjZ2LjAwOWMwIDIuNDAtMS45NTcgNC4zNjEtNC4zNjEgNC4zNjEtMi40IDAtNC4zNi0xLjk2LS4wMDQtNC4zNjF2LTIuNjU4aC0xLjQ1VjI0LjY3Yy0xLjI0IDAuMjQyLTIuNjI4LS4zOTctMy41MTYtMS4yODYtLjg4Ny0uODg4LTEuNTI4LTIuMjc2LTEuMjg2LTMuNTE2VjkuODk0aC0xLjQ1VjYuNDM0aDYuMDI4VjYuNDM0SjIuNTY0eiIgZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+PC9zdmc+)
 
 ### 📌 推荐项目
-![github-contributions](https://github.com/IICSC/github-contributions)
+[![github-contributions](https://github-readme-stats.vercel.app/api/pin/?username=WuXiaoMuer&repo=MuDevTools&theme=vue)](https://github.com/WuXiaoMuer/MuDevTools)
 
 ### 📫 找到我
 - 主账号邮箱：**wuxiaomuer@gmail.com**  
